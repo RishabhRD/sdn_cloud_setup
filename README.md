@@ -178,9 +178,9 @@ would link them. However, few things need to be take care of:
 - We need Oracle Java 8 to be installed and set default on machine. Any other
 java version would not work. Oracle Java 8 is now not available in apt
 repository. So, I would link the guide to install it:
-[https://www.fosstechnix.com/install-oracle-java-8-on-ubuntu-20-04/](Install Java 8)
+[Install Java 8](https://www.fosstechnix.com/install-oracle-java-8-on-ubuntu-20-04/)
 
-- Floodlight installation guide: [https://floodlight.atlassian.net/wiki/spaces/floodlightcontroller/pages/1343544/Installation+Guide](Floodlight installation guide)
+- Floodlight installation guide: [Floodlight installation guide](https://floodlight.atlassian.net/wiki/spaces/floodlightcontroller/pages/1343544/Installation+Guide)
 
 ### Running floodlight
 
