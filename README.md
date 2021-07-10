@@ -1,5 +1,16 @@
 # SDN Cloud Setup Using LXC, OVS and Floodlight
 
+## Table of contents
+
+1. LXC Setup
+2. OVS Setup
+3. Floodlight Setup
+4. Cloud Setup
+
+First 3 chapters are about installing and using LXC, OVS and floodlight
+respectively. We would use and refer the content of these chapter in cloud
+setup chapter.
+
 ## LXC Setup
 
 In this section we would setup a lxc container named vm1. It's IP address would
