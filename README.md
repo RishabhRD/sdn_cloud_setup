@@ -469,6 +469,11 @@ On phy1:
 through physical conenction of ovs0 and phy1 and ovs0 and cnt.
 This non-openflow connection is through which ovs1 communicates with
 controller.
+
+On phy2:
+
+- ovs2 and eth0 are openflow connection
+- ovs2 and vm2 are openflow connection
 - There is a tunneled non-openflow connection between ovs2 and cnt that goes
 through physical conenction of ovs0 and phy2 and ovs0 and cnt.
 This non-openflow connection is through which ovs2 communicates with
